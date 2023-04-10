@@ -21,20 +21,22 @@
     ],
     "rules": {
         "indent": [
-            "error",
-            4
+            "linebreak-style",
+           4
         ],
         "linebreak-style": [
-            "error",
+            "linebreak-style",
             "unix"
         ],
         "quotes": [
-            "error",
+            "linebreak-style",
             "single"
         ],
         "semi": [
-            "error",
+            "linebreak-style",
             "always"
-        ]
+        ],
+        "react/prop-types": "off",
+        "react/react-in-jsx-scope": "off"
     }
 }

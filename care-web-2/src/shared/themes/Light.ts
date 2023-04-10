@@ -1,4 +1,3 @@
-// As cores do site geral aqui 
 
 import { createTheme } from '@mui/material'
 
